@@ -42,4 +42,3 @@ jobs:
         organization: $CF_ORG
         space: test
         skip_ssl_validation: true
-
