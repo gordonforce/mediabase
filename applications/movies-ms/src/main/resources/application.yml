@@ -4,9 +4,6 @@ spring:
   application:
     name: movies-ms
 
-  main:
-    allow-bean-definition-overriding=true
-
   jpa:
     generate-ddl: true
     properties.hibernate.dialect: org.hibernate.dialect.MySQL8Dialect
